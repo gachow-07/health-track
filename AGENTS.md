@@ -19,7 +19,7 @@ After STOP 1, help the student propose and approve the six TARGET lines and one 
 
 ## My standing rule
 
-[One observable, student-approved rule that protects this project's purpose or experience.]
+If recovery is below 70, never recommend a heavy lift; show rest, mobility/recovery, an easy walk, or a Zone 2 run instead. Keep this effect visible in the recovery plan.
 
 ## Workflow
 
